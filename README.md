@@ -1,6 +1,6 @@
 # 🌎 React Hello World  
 
-A minimal **React setup** using **CDN links**—no build tools, just pure React! 🚀  
+A minimal **React setup** using **CDN links**-no build tools, just pure React! 🚀  
 
 ## 📌 What’s Inside?  
 - ✅ **Simple React Component** rendering a greeting message.  
