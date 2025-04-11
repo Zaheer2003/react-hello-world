@@ -17,7 +17,7 @@ A minimal **React setup** using **CDN links**—no build tools, just pure React!
 ## 🛠️ Code Overview  
 ```jsx  
 function HelloWorld() {
-    return <h1>Hello Users</h1>;
+    return <h1>Hello World</h1>;
 }
 
 const { createRoot } = ReactDOM;
