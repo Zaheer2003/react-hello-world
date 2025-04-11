@@ -4,8 +4,8 @@ A minimal **React setup** using **CDN links**-no build tools, just pure React! �
 
 ## 📌 What’s Inside?  
 - ✅ **Simple React Component** rendering a greeting message.  
-- ✅ **No Build Tools Required** – Just open in a browser and run.  
-- ✅ **Perfect for Beginners** – Learn React with minimal setup.  
+- ✅ **No Build Tools Required** - Just open in a browser and run.  
+- ✅ **Perfect for Beginners** - Learn React with minimal setup.  
 
 ## 🚀 How to Run  
 1. Clone this repository:  
